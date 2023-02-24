@@ -1,4 +1,4 @@
-package geneticAlgorithm
+package go-tsp/geneticAlgorithm
 
 import (
 	"go-tsp/base"
