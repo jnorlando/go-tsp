@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go-tsp/base"
-	ga "go-tsp/geneticAlgorithm"
+	"base"
+	ga "geneticAlgorithm"
 	"io/ioutil"
 	"log"
 	"math/rand"
